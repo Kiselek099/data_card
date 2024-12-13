@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Data card</string>
+    <string name="edit_name">Введите имя</string>
+    <string name="edit_surname">Введите фамилию</string>
+    <string name="edit_data">Введите дату рождения в формате dd/MM/yyyy</string>
+    <string name="edit_phone">Введите номер телефона</string>
+    <string name="exit">Выход</string>
+</resources>
